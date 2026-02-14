@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Para você ❤️</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #0f172a;
+      color: #f8fafc;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.2rem;
+    }
+    p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Happy Valentine’s Day ❤️</h1>
+    <p>Você é meu bug favorito… porque eu nunca quero corrigir 💘</p>
+  </div>
+</body>
+</html>
